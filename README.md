@@ -1,4 +1,4 @@
-# cifar10_image-classification_CNN
+
 # CIFAR-10 Image Classification using Neural Networks
 
 This project demonstrates how to build and train an artificial neural network (ANN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset.
