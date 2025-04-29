@@ -25,7 +25,12 @@ Label Reshaping: Converted from 2D to 1D for model training compatibility.
 ## ✅ Requirements
 
 Python
-TensorFlow / Keras
+TensorFlow 
+
+keras
+
 NumPy
+
 Matplotlib
+
 scikit-learn
