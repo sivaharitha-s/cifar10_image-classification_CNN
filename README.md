@@ -17,7 +17,15 @@ The CIFAR-10 dataset consists of:
 
 Each image is a 3D array (32, 32, 3) where each element is a pixel's RGB value ranging from 0 to 255.
 
-# 🔄 Data Preprocessing
+## 🔄 Data Preprocessing
 Normalization: Pixel values divided by 255.0 to scale between 0 and 1.
 
 Label Reshaping: Converted from 2D to 1D for model training compatibility.
+
+## ✅ Requirements
+
+Python
+TensorFlow / Keras
+NumPy
+Matplotlib
+scikit-learn
